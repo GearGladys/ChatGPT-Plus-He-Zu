@@ -8,7 +8,7 @@
 
 需要注意的是，如果你每天都要高强度使用ChatGPT，或者经常上传合同、证件、财务资料、客户信息、公司文件、代码项目等敏感内容，那么不建议选择ChatGPT Plus合租账号。因为合租账号本质上是多人共享使用，所以会存在使用次数限制、登录规则限制以及隐私保护不足等问题。它更适合低成本体验和轻度使用，不适合长期保存聊天记录，也不适合处理重要资料。如果你对稳定性、隐私性和账号归属要求很高，更适合选择ChatGPT Plus代充值，或者购买ChatGPT Plus独享账号。
 
-## ChatGPT Plus拼车合租平台一：星际放映厅
+## ChatGPT Plus拼车合租平台一：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
 星际放映厅是一个成立于2023年，并已在工信部完成备案的AI工具和流媒体账号服务平台，主要提供AI会员代充值、账号购买、账号合租等服务。对于想使用ChatGPT Plus，但又不想自己处理复杂订阅流程的用户来说，星际放映厅属于相对正规、操作门槛也比较低的平台。用户只需要在平台内选择对应服务并完成下单，就可以在订单页面查看账号信息和使用说明。
 
@@ -18,19 +18,29 @@
 
 通过星际放映厅拼车合租ChatGPT Plus会员的大致流程如下：
 
-* 第一步：打开星际放映厅官网，并注册或登录账号。
+### 第一步：打开星际放映厅官网，并注册或登录账号。
 
-* 第二步：点击“AI工具箱”和“GPT专区”选项。
+![通过星际放映厅拼车合租ChatGPT Plus账号第一步：打开星际放映厅官网，并注册或登录账号](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-Plus-He-Zu-1.png)
 
-* 第三步：选择“ChatGPT Plus账号购买”选项。
+### 第二步：点击“AI工具箱”和“GPT专区”选项。
 
-* 第四步：选择“共享账号”，并输入优惠码“ANYOFAI”。
+![通过星际放映厅拼车合租ChatGPT Plus账号第二步：点击“AI工具箱”和“GPT专区”选项](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-Plus-He-Zu-2.png)
 
-* 第五步：完成下单后，点击“我的车票”，即可查看ChatGPT Plus使用入口。
+### 第三步：选择“ChatGPT Plus账号购买”选项。
+
+![通过星际放映厅拼车合租ChatGPT Plus账号第三步：选择“ChatGPT Plus账号购买”选项](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-Plus-He-Zu-3.png)
+
+### 第四步：选择“共享账号”，并输入优惠码“ANYOFAI”。
+
+![通过星际放映厅拼车合租ChatGPT Plus账号第四步：选择“共享账号”，并输入优惠码“ANYOFAI”](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-Plus-He-Zu-4.png)
+
+### 第五步：完成下单后，点击“我的车票”，即可查看ChatGPT Plus使用入口。
+
+![通过星际放映厅拼车合租ChatGPT Plus账号第五步：完成下单后，点击“我的车票”，即可查看ChatGPT Plus使用入口](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-Plus-He-Zu-5.png)
 
 需要注意的是，使用ChatGPT Plus共享账号时，不要修改账号密码、邮箱、安全设置等信息，也不要在合租账号里保存敏感资料。如果遇到无法登录、账号异常、额度不足等问题，建议优先通过订单页面联系平台客服处理。此外，由于星际放映厅提供的是ChatGPT Plus原生账号合租服务，所以使用时需要准备稳定的网络环境。
 
-## ChatGPT Plus拼车合租平台二：银河录像局
+## ChatGPT Plus拼车合租平台二：<a href="https://nf.video/BTgSc">银河录像局</a>
 
 银河录像局是一个成立于2019年的AI工具和流媒体综合服务平台，主要面向国内用户提供AI工具代充值、账号购买、账号合租等服务。该平台运营时间较长，服务品类也比较丰富，除了ChatGPT相关服务之外，还覆盖Claude、Gemini、Grok等多个热门AI工具。
 
@@ -38,15 +48,23 @@
 
 通过银河录像局拼车合租ChatGPT Plus会员的大致流程如下：
 
-* 第一步：打开银河录像局官网，并完成账号注册或登录。
+### 第一步：打开银河录像局官网，并完成账号注册或登录。
 
-* 第二步：点击“AI服务”选项，然后找到“GPT Plus”服务。
+![通过银河录像局拼车合租ChatGPT Plus账号第一步：打开银河录像局官网，并完成账号注册或登录](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-He-Zu-1.png)
 
-* 第三步：根据自己的需求选择“银河版”或“共享会员”。
+### 第二步：点击“AI服务”选项，然后找到“GPT Plus”服务。
+
+![通过银河录像局拼车合租ChatGPT Plus账号第二步：点击“AI服务”选项，然后找到“GPT Plus”服务](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-He-Zu-2.png)
+
+### 第三步：根据自己的需求选择“银河版”或“共享会员”。
 
 注意：“银河版”就是ChatGPT Plus镜像版。该服务不需要特殊网络环境，国内网络可以直连使用。而且它不仅可以使用OpenAI的GPT-5.5大模型，也可以使用Claude、Gemini、Grok等AI工具的大模型。需要提醒大家的是，“银河版”有使用次数限制，购买前一定要看清楚套餐对应的使用次数、有效期和具体规则。
 
-* 第四步：完成下单后，点击“车票”，即可查看ChatGPT Plus使用入口。
+![通过银河录像局拼车合租ChatGPT Plus账号第三步：根据自己的需求选择“银河版”或“共享会员”](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-He-Zu-3.png)
+
+### 第四步：完成下单后，点击“车票”，即可查看ChatGPT Plus使用入口。
+
+![通过银河录像局拼车合租ChatGPT Plus账号第四步：完成下单后，点击“车票”，即可查看ChatGPT Plus使用入口](https://raw.githubusercontent.com/GearGladys/ChatGPT-Plus-He-Zu/refs/heads/main/image/ChatGPT-He-Zu-4.png)
 
 OK，当你完成以上操作步骤之后，就可以正式开始体验ChatGPT Plus相关功能了。此外，银河录像局提供的ChatGPT Plus合租服务也支持全程质保。如果遇到使用入口打不开、账号无法使用、车票异常、套餐额度问题等情况，都可以直接联系平台在线客服处理。
 
